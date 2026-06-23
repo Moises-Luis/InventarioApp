@@ -6,7 +6,7 @@
 // Estado: Mensaje de bienvenida
 // ============================================================
 
-using System.Reflection;
+using System.Reflection; //para imprimir en pantalla la version y el SO
 
 var asembly = Assembly.GetExecutingAssembly();
 var version = asembly.GetName().Version;
