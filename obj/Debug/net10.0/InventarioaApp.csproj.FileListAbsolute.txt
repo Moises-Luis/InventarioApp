@@ -1,0 +1,14 @@
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\obj\Debug\net10.0\InventarioaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\obj\Debug\net10.0\InventarioaApp.AssemblyInfoInputs.cache
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\obj\Debug\net10.0\InventarioaApp.AssemblyInfo.cs
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\obj\Debug\net10.0\InventarioaApp.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\obj\Debug\net10.0\InventarioaApp.genruntimeconfig.cache
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\bin\Debug\net10.0\InventarioApp.exe
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\bin\Debug\net10.0\InventarioApp.deps.json
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\bin\Debug\net10.0\InventarioApp.runtimeconfig.json
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\bin\Debug\net10.0\InventarioApp.dll
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\bin\Debug\net10.0\InventarioApp.pdb
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\obj\Debug\net10.0\InventarioApp.dll
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\obj\Debug\net10.0\refint\InventarioApp.dll
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\obj\Debug\net10.0\InventarioApp.pdb
+C:\Users\Sistemas DG\Documents\Inventario\InventarioaApp\obj\Debug\net10.0\ref\InventarioApp.dll
